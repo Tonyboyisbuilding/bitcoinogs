@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0a0915;
+}
+
+header {
+    background-color: #0A0915;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+p {
+    line-height: 1.6;
+    color: #555;
+}
+
+footer p {
+    color: #fff;
+}
+
+/* Optional: Add a little animation to the footer */
+footer {
+    transition: background-color 0.3s ease;
+}
+
