@@ -802,13 +802,11 @@ footer {
 
     .lowest {
         overflow: hidden;
-        display: flex;
         width: 100%;
-        flex-direction: column;
+        display: flex;
         justify-content: center;
         align-items: center;
-        gap: 180px;
-        /* margin-left: -5px; */
+        /* gap: 180px; */
     }
 
     .tp {
@@ -825,6 +823,8 @@ footer {
         line-height: 19.6px;
         letter-spacing: 0.28px;
         margin-left: 60px;
+        margin-right: 200px;
+
     }
     
 
@@ -834,6 +834,8 @@ footer {
         gap: 30px;
         margin-left: 20px;
         margin-top: 100px;
+        margin-right: 160px;
+
     }
 
 
